@@ -9,7 +9,6 @@ const deadline = new Date('5/19/2024 15:00:00');
 const sheetBId = '1A0jly0Z5afz9SCxAmlAEx4paPbvZKT21B50mu3HJfIY';
 const tenSheetB = 'Câu trả lời biểu mẫu 1';
 const cotMSSVSheetB = 3;
-const cotDiemSheetB = 1;
 const dongDuLieuDauTienSheetB = 2;
 const cotCuoiCungCanDocSheetB = 'D';
 const cotThoiGianSheetB = 0;
